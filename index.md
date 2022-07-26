@@ -1,4 +1,4 @@
-## Heisenberg
+## Heisenberg's Uncertainty Principle in Real Life
 
 ![Heisenberg](images/important.gif)
 
