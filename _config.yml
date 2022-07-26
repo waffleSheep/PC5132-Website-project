@@ -2,3 +2,4 @@ theme: jekyll-theme-tactile
 title: Heisenberg's Uncertainty Principle in Real Life
 description: Explanation and applications of Heisenberg's Uncertainty Principle
 markdown: kramdown
+use_math: true
